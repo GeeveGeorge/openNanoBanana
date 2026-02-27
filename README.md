@@ -4,7 +4,7 @@ Real-time grounded image generation. Search the web for reference images, verify
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geevegeorge/openNanoBanana/blob/main/openNanoBanana_colab.ipynb)
 
-**Try it free on Google Colab** -- runs the full pipeline on a free T4 GPU with a Gradio UI. No local setup needed, just paste your Gemini and Serper API keys.
+**Try it free on Google Colab** -- runs the full pipeline on a free T4 GPU with a Gradio UI. No local setup needed, just paste your Gemini and Serper API keys. The Colab edition uses FLUX.2-klein-4B (4-bit quantized) for image editing -- for higher quality results, use the web UI which runs Nano Banana Pro Edit on RunPod.
 
 ## What it does
 
