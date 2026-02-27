@@ -2,6 +2,10 @@
 
 Real-time grounded image generation. Search the web for reference images, verify them with AI, and generate new images grounded in reality.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geevegeorge/openNanoBanana/blob/main/openNanoBanana_colab.ipynb)
+
+**Try it free on Google Colab** -- runs the full pipeline on a free T4 GPU with a Gradio UI. No local setup needed, just paste your Gemini and Serper API keys.
+
 ## What it does
 
 Current image generators are offline -- they can't reference real places or objects they weren't trained on. openNanoBanana fixes this with a multi-stage pipeline:
